@@ -14,4 +14,4 @@
 sed -i 's/192.168.1.1/192.168.3.5/g' package/base-files/files/bin/config_generate
 
 # 设置密码为空
-sed -i '/CYXluq4wUazHjmCDBCqXF/d' $ZZZ
+#sed -i '/CYXluq4wUazHjmCDBCqXF/d' $ZZZ
